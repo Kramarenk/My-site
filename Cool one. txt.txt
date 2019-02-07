@@ -2,10 +2,10 @@
 	<html lang "en">
 	<head>
 		<meta charset="utf-8">
-		<title>Document</title>
-	</head>
+		<title>Site</title>
+	<link rel="stylesheet" type="text/css" href="">
+</head>
 	<body>
-	<h1>Document for me</h1>
-	<p>New document about me</p>
+	<h1>Site here</h1>
 	</body>
 	</html>
