@@ -6,8 +6,6 @@
 	<link rel="stylesheet" type="text/css" href="">
 </head>
 	<body>
-	<h1>Site here</h1>
-	<p>site underground</p>
-	<p>privet</p>
+	<p> Loren ipsum ljkoihklanOjdl;AMCQWDJ;KNCLKCL;ASKCMQ</p>
 	</body>
 	</html>
